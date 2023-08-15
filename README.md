@@ -1,3 +1,7 @@
+<p align="center">
+<img alt="Banner" src="Asset/galo-king-of-glory.gif">
+</p>
+
 # Hello, I'm Alvito Dian
 
 Welcome to my GitHub profile! I am a Junior Full Stack Web Developer, and I enjoy collaborating and learning about new technologies. Here you will find some of the projects I've worked on and contributions I've made to the open-source community.
