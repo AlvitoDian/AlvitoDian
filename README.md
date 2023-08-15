@@ -1,34 +1,37 @@
+# Hello, I'm Alvito Dian
 
-# Halo, Saya Alvito Dian
+Welcome to my GitHub profile! I am a Junior Full Stack Web Developer, and I enjoy collaborating and learning about new technologies. Here you will find some of the projects I've worked on and contributions I've made to the open-source community.
 
-Selamat datang di profil GitHub saya! Saya adalah [], dan saya senang berkolaborasi dan belajar tentang teknologi baru. Di sini Anda akan menemukan beberapa proyek yang telah saya kerjakan dan beberapa kontribusi yang saya berikan ke komunitas open source.
+## About Me
 
-## Tentang Saya
+- Name: Alvito Dian
+- Location: Surabaya
+- Occupation: Students
 
-- Nama: [Nama Anda]
-- Lokasi: [Lokasi Anda]
-- Pekerjaan: [Jika ada]
-- Situs Web: [Situs web pribadi atau portofolio]
+## Recent Projects
 
-## Proyek Terbaru
+- [Project Name 1](link_to_project_1) - Brief description of this project.
+- [Project Name 2](link_to_project_2) - Brief description of this project.
 
-- [Nama Proyek 1](link_ke_proyek_1) - Deskripsi singkat tentang proyek ini.
-- [Nama Proyek 2](link_ke_proyek_2) - Deskripsi singkat tentang proyek ini.
+## Open Source Contributions
 
-## Kontribusi Open Source
+I am passionate about contributing to open-source projects that I use and love. Here are some of my recent contributions:
 
-Saya senang berkontribusi ke proyek open source yang saya gunakan dan cintai. Berikut beberapa kontribusi terbaru saya:
+- [Project Name 1](link_to_contribution_1) - Brief description of this contribution.
+- [Project Name 2](link_to_contribution_2) - Brief description of this contribution.
 
-- [Nama Proyek 1](link_ke_kontribusi_1) - Deskripsi singkat tentang kontribusi ini.
-- [Nama Proyek 2](link_ke_kontribusi_2) - Deskripsi singkat tentang kontribusi ini.
-
-## Statistik GitHub
+## GitHub Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=AlvitoDian&show_icons=true&theme=radical" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvitoDian&layout=donut-vertical&theme=radical" alt="Top Languages">
 
-## Kontak
+## Contact
 
-Jika Anda ingin berhubungan dengan saya, jangan ragu untuk mengirim pesan melalui [Email](mailto:alamat@email.com) atau melalui [LinkedIn](link_ke_akun_linkedin).
+If you'd like to get in touch with me, feel free to send a message via :
+<p>
+<a href="mailto:alvidpp23@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-alvidpp23%40gmail.com-red?logo=gmail"></a>
+</p>
+<p>
+<a href="https://www.linkedin.com/in/alvito-dian-pratama-putra-474b3a247/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Alvito%20Dian-blue?logo=linkedin"></a>
+</p>
 
-Terima kasih atas kunjungan Anda ke profil GitHub saya!
-
+Thank you for visiting my GitHub profile!
