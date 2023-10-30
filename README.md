@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I am a Junior Full Stack Web Developer, and I enjo
 
 - Good with **PHP**, **Javascript** , **Python** , **CSS** and **HTML**
 
+- Familiar with **Laravel**, **ReactJS**, **Bootstrap**, **Flask** and **NodeJS**
+
 - Have high experience with **Adobe Photoshop** and **Adobe Premiere Pro**
-  
-- Familiar with **Laravel**, **VueJS**, **Bootstrap**, **Flask** and **NodeJS**
 
 - Understand Bahasa (Native), and English (intermediate)
 
