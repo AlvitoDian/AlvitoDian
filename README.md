@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I am a Junior Full Stack Web Developer, and I enjo
 
 - Studying [***Informatics***]()
 
-- Good with **PHP**, **Javascript** , **Python** , **CSS** and **HTML**
+- Good with  **Javascript** , **PHP**, **Python** , **CSS** and **HTML**
 
-- Familiar with **Laravel**, **ReactJS**, **Bootstrap**, **Flask** and **NodeJS**
+- Familiar with **NodeJS**, **ExpressJS** ,**Laravel**, **ReactJS**, **Bootstrap**, **Tailwind**, and **Flask**
 
 - Have high experience with **Adobe Photoshop** and **Adobe Premiere Pro**
 
@@ -34,7 +34,7 @@ I am passionate about contributing to open-source projects that I use and love. 
 - [Project Name 1](link_to_contribution_1) - Brief description of this contribution.
 - [Project Name 2](link_to_contribution_2) - Brief description of this contribution. -->
 
-## My GitHub Statistics
+<!--  ## My GitHub Statistics !-->
 <!-- <img src="https://github-readme-stats-liard-delta-49.vercel.app/api/top-langs/?username=AlvitoDian&layout=donut-vertical&theme=radical" alt="Top Languages">
 <img src="https://github-readme-stats-liard-delta-49.vercel.app/api?username=AlvitoDian&show_icons=true&theme=radical" alt="GitHub Stats"> !-->
 
