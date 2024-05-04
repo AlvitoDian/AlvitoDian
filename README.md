@@ -34,9 +34,10 @@ I am passionate about contributing to open-source projects that I use and love. 
 - [Project Name 1](link_to_contribution_1) - Brief description of this contribution.
 - [Project Name 2](link_to_contribution_2) - Brief description of this contribution. -->
 
-<!--  ## My GitHub Statistics !-->
-<!-- <img src="https://github-readme-stats-liard-delta-49.vercel.app/api/top-langs/?username=AlvitoDian&layout=donut-vertical&theme=radical" alt="Top Languages">
-<img src="https://github-readme-stats-liard-delta-49.vercel.app/api?username=AlvitoDian&show_icons=true&theme=radical" alt="GitHub Stats"> !-->
+## My GitHub Statistics 
+  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvitoDian&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
 ## Contact
 
