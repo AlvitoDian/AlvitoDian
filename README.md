@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="Banner" src="https://media1.tenor.com/m/BueYdXxEwwUAAAAd/galo-king-of-glory.gif">
+<img alt="Banner" src="https://media1.tenor.com/m/BueYdXxEwwUAAAAd/galo-king-of-glory.gif" width=400>
 </p>
 
 # Hello, I'm Alvito Dian :smiley:
