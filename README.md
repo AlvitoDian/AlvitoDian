@@ -10,11 +10,7 @@ Welcome to my GitHub profile! I am a Junior Full Stack Web Developer, and I enjo
 
 - Name **Alvito Dian**
 
-- Live in **Surabaya, Indonesia**
-
-- Studying [***Informatics***]()
-
-- Good with  **Javascript** , **PHP**, **Python** , **CSS** and **HTML**
+- Good with  **Javascript** , **PHP**, **Python** 
 
 - Familiar with **NodeJS**, **ExpressJS** ,**Laravel**, **ReactJS**, **Bootstrap**, **Tailwind**, and **Flask**
 
