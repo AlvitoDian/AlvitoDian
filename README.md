@@ -2,12 +2,18 @@
 <img alt="Banner" src="https://media1.tenor.com/m/BueYdXxEwwUAAAAd/galo-king-of-glory.gif" width=400>
 </p>
 
+
+
 # Hello, I'm Alvito Dian :smiley:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlvitoDian&theme=monokai&rank=SECRET,S,AAA,AA,A,B,C" />
+</p>
+
 
 Welcome to my GitHub profile! I am a Junior Full Stack Web Developer, and I enjoy collaborating and learning about new technologies. Here you will find some of the projects I have worked on and contributions I have made.
 
 ## My Tech Stack
-
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -44,15 +50,12 @@ I am passionate about contributing to open-source projects that I use and love. 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvitoDian&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
-## Contact
 
-If you'd like to get in touch with me, feel free to send a message via :
-<p>
-<a href="mailto:alvidpp23@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Email-alvidpp23%40gmail.com-red?logo=gmail"></a>
-</p>
-<p>
-<a href="https://www.linkedin.com/in/alvito-dian-pratama-putra-474b3a247/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Alvito%20Dian-blue?logo=linkedin"></a>
-</p>
+## Where to Find Me
+
+- 📧 Email: [alvidpp23@gmail.com](mailto:alvidpp23@gmail.com)
+- 🌐 Website: [vits-here.vercel.app](https://vits-here.vercel.app/)
+- 💼 LinkedIn: [Alvito Dian](https://www.linkedin.com/in/alvitodian/)
 
 
 Thank you for visiting my GitHub profile!
